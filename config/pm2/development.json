@@ -1,0 +1,10 @@
+{
+    "apps" : [
+        {
+            "name": "Development Server",
+            "script": "yarn",
+            "args" : "start:dev",
+            "watch": ["dist"]
+        }
+    ]
+}

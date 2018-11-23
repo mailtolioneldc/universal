@@ -1,0 +1,2 @@
+export const PAGE_TITLE = 'PAGE_TITLE',
+  GET_PAGE_TITLE = 'GET_PAGE_TITLE';
