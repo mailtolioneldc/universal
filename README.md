@@ -1,5 +1,5 @@
 <div align="center">
-<h1>React Isomorphic Boilerplate 📦</h1>
+<h1>React Universal Boilerplate 📦</h1>
 </div>
 
 ## What is this?
